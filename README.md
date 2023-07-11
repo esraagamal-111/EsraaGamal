@@ -1,5 +1,6 @@
-Hi my name is  Esraa Gamal
-
+# Hi my name is  Esraa Gamal
+### *Postgraduate Diploma in Data Science*
+### Data Analyst| BI Analyst| Machine Learning Engineer 
 Expert in Business Analysis and solve complex business problem with +14 years of diversified experience between Data Analysis, Machine Learning & Business intelligence.
 Expert in retrieving and aggregating data from multiple sources and compiling it into a digestible and actionable format.
 Expert in analyzing data & storytelling to solve a wide variety of business problems and create
